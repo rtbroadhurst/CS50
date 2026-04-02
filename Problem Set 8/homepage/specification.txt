@@ -1,0 +1,7 @@
+HTML tags used: meta, link, script, nav, a, button, span, div, ul, li, h1, h3, p, form, label, input, textarea
+
+CSS properties used: background-color, color, font-size, margin, padding, margin-bottom, line-height, font-weight, text-decoration
+
+JavaScript: I used JavaScript on the contact page to prevent the form from submitting and instead display the message "Message sent!".
+
+Bootstrap: I used Bootstrap to create a responsive navigation bar and to style the layout, buttons, spacing, and form elements.
